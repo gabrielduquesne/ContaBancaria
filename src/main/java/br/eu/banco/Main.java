@@ -3,7 +3,7 @@ package br.eu.banco;
 import br.eu.banco.newpackage.ContaBanco;
 
 
-public class Banco {
+public class Main {
 
     public static void main(String[] args) {
         ContaBanco p1 =  new ContaBanco ();
